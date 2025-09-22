@@ -1,5 +1,5 @@
 setuptools>=65.5.0
-wheel
+
 
 pyrofork==2.3.43
 git+https://github.com/Jisshubot/pyrogram@dev
@@ -41,4 +41,5 @@ jinja2
 apscheduler
 pyromod
 colorama
+
 
